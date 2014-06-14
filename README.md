@@ -1,0 +1,4 @@
+SkypeManager
+============
+
+SkypeBOT
