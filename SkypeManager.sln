@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkypeManager", "SkypeManager\SkypeManager.csproj", "{3A062ECA-D3C4-444E-838D-D150EBE99BB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkypeCommander", "SkypeCommander\SkypeCommander.csproj", "{FF212ED4-CCDE-4C60-A497-E25D4E8CE30E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoLProvider", "LoLProvider\LoLProvider.csproj", "{63BF7C10-5853-411C-AE3D-5118A4115128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrunoLMProvider", "BrunoLMProvider\BrunoLMProvider.csproj", "{5F7F7D0D-D869-4CE2-83EE-3EAFA1E8E144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultProvider", "DefaultProvider\DefaultProvider.csproj", "{9AA39718-81DB-489C-8B40-A20FF03794DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A062ECA-D3C4-444E-838D-D150EBE99BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A062ECA-D3C4-444E-838D-D150EBE99BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A062ECA-D3C4-444E-838D-D150EBE99BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A062ECA-D3C4-444E-838D-D150EBE99BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF212ED4-CCDE-4C60-A497-E25D4E8CE30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF212ED4-CCDE-4C60-A497-E25D4E8CE30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF212ED4-CCDE-4C60-A497-E25D4E8CE30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF212ED4-CCDE-4C60-A497-E25D4E8CE30E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BF7C10-5853-411C-AE3D-5118A4115128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BF7C10-5853-411C-AE3D-5118A4115128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BF7C10-5853-411C-AE3D-5118A4115128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BF7C10-5853-411C-AE3D-5118A4115128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7F7D0D-D869-4CE2-83EE-3EAFA1E8E144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7F7D0D-D869-4CE2-83EE-3EAFA1E8E144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7F7D0D-D869-4CE2-83EE-3EAFA1E8E144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7F7D0D-D869-4CE2-83EE-3EAFA1E8E144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA39718-81DB-489C-8B40-A20FF03794DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA39718-81DB-489C-8B40-A20FF03794DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA39718-81DB-489C-8B40-A20FF03794DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA39718-81DB-489C-8B40-A20FF03794DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
