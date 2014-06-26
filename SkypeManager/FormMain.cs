@@ -33,7 +33,9 @@ namespace SkypeManager
 
                 SkypeCommands.Skype.Attach();
                 SkypeCommands.LoadSettings();
-                SpeechCommands.Start();
+                //SpeechCommands.Start();
+
+                HubManager.Attach();
 
                 //DebugTests();
 
@@ -53,7 +55,7 @@ namespace SkypeManager
             Settings.Default.StartSize = this.Size;
             Settings.Default.Save();
 
-            SpeechCommands.Stop();
+            //SpeechCommands.Stop();
         }
 
 
